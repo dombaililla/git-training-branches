@@ -27,6 +27,9 @@
             <step>
                 <cmd>step three</cmd>
             </step>
+            <step>
+                <cmd>step four</cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
