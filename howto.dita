@@ -25,11 +25,24 @@
                 <cmd>step two</cmd>
             </step>
             <step>
+
+                <cmd>step 2,5</cmd>
+            </step>
+            <step>
                 <cmd>step three</cmd>
             </step>
             <step>
                 <cmd>step four</cmd>
             </step>
+
+                <cmd>step three</cmd>
+            </step>
+
+            <step>
+                <cmd>step four</cmd>
+
+
+
         </steps>
     </taskbody>
 </task>
