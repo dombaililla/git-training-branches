@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fmh_qgz_4r">
+    <title>How to</title>
+    <shortdesc/>
+    <prolog>
+        <author/>
+        <metadata>
+            <prodinfo>
+                <prodname/>
+                <vrmlist>
+                    <vrm version=""/>
+                </vrmlist>
+                <component/>
+                <featnum/>
+            </prodinfo>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>step one</cmd>
+            </step>
+            <step>
+                <cmd>step two</cmd>
+            </step>
+            <step>
+                <cmd>step three</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
