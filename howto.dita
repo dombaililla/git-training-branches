@@ -38,6 +38,11 @@
                 <cmd>step three</cmd>
             </step>
 
+            <step>
+                <cmd>step four</cmd>
+
+
+
         </steps>
     </taskbody>
 </task>
