@@ -25,6 +25,7 @@
                 <cmd>step two</cmd>
             </step>
             <step>
+
                 <cmd>step 2,5</cmd>
             </step>
             <step>
@@ -33,6 +34,10 @@
             <step>
                 <cmd>step four</cmd>
             </step>
+
+                <cmd>step three</cmd>
+            </step>
+
         </steps>
     </taskbody>
 </task>
